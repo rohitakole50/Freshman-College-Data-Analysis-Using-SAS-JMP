@@ -14,7 +14,7 @@ This project involves a comprehensive analysis using multiple linear regression 
 
 ### 1. Dataset Description:
 
-The dataset includes predictors such as high school GPA, ACT scores, and freshman college GPA.
+* The dataset includes predictors such as high school GPA, ACT scores, and freshman college GPA.
 
 ### 2. Analysis:
 
